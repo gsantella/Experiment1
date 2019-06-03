@@ -2,9 +2,4 @@ yellow
 green
 pink
 brown
-<<<<<<< HEAD
 red
-=======
-ïïïï
-purple
->>>>>>> 658fac7274755d35ae4ed59c48c495c0075772a2
